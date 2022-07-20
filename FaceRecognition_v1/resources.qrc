@@ -1,0 +1,64 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Resources/单选_radio-two.svg</file>
+        <file>Resources/关闭_close-one.svg</file>
+        <file>Resources/关闭摄像_monitor-off.svg</file>
+        <file>Resources/人脸识别_face-recognition.svg</file>
+        <file>Resources/人脸识别_ios-face-recognition.svg</file>
+        <file>Resources/人员_people.svg</file>
+        <file>Resources/日志_log.svg</file>
+        <file>Resources/删除键_delete-key.svg</file>
+        <file>Resources/删除用户_people-delete.svg</file>
+        <file>Resources/时间_time.svg</file>
+        <file>Resources/手柄X_handle-x.svg</file>
+        <file>Resources/手柄Y_handle-y.svg</file>
+        <file>Resources/数据表_data-sheet.svg</file>
+        <file>Resources/搜索用户_people-search.svg</file>
+        <file>Resources/提示_tips.svg</file>
+        <file>Resources/提示_tips-one.svg</file>
+        <file>Resources/添加_add.svg</file>
+        <file>Resources/添加人群_people-plus.svg</file>
+        <file>Resources/相机_camera (1).svg</file>
+        <file>Resources/相机_camera.svg</file>
+        <file>Resources/校验_check-one.svg</file>
+        <file>Resources/用户_user.svg</file>
+        <file>Resources/用户定位_user-positioning.svg</file>
+        <file>E:/icon/FaceRecognition/分界线_dividing-line.svg</file>
+        <file>E:/icon/FaceRecognition/设置_setting-one.svg</file>
+        <file>E:/icon/FaceRecognition/首页_home.svg</file>
+        <file>E:/icon/FaceRecognition/钥匙_key.svg</file>
+        <file>E:/icon/FaceRecognition/人脸识别.png</file>
+        <file>E:/icon/FaceRecognition/人脸识别_64.png</file>
+        <file>E:/icon/FaceRecognition/人脸识别_64_1.png</file>
+        <file>E:/icon/FaceRecognition/摄像头_camera-one.svg</file>
+        <file>E:/icon/FaceRecognition/摄像头_camera-five.svg</file>
+        <file>E:/icon/FaceRecognition/监控摄像头_monitor-camera.svg</file>
+        <file>E:/icon/FaceRecognition/摄像头_camera-one.png</file>
+        <file>E:/icon/FaceRecognition/摄像头 (1).svg</file>
+        <file>E:/icon/FaceRecognition/摄像头.png</file>
+        <file>E:/icon/FaceRecognition/摄像头 (2).svg</file>
+        <file>E:/icon/FaceRecognition/摄像头 (2).png</file>
+        <file>E:/icon/FaceRecognition/退出_logout (1).svg</file>
+        <file>Resources/分界线_dividing-line.svg</file>
+        <file>Resources/监控摄像头_monitor-camera.svg</file>
+        <file>Resources/人脸识别.png</file>
+        <file>Resources/人脸识别_64.png</file>
+        <file>Resources/人脸识别_64_1.png</file>
+        <file>Resources/设置_setting-one.svg</file>
+        <file>Resources/摄像头 (1).svg</file>
+        <file>Resources/摄像头 (2).png</file>
+        <file>Resources/摄像头 (2).svg</file>
+        <file>Resources/摄像头.png</file>
+        <file>Resources/摄像头_camera-five.svg</file>
+        <file>Resources/摄像头_camera-one.png</file>
+        <file>Resources/摄像头_camera-one.svg</file>
+        <file>Resources/首页_home.svg</file>
+        <file>Resources/退出_logout (1).svg</file>
+        <file>Resources/钥匙_key.svg</file>
+        <file>Resources/关闭_close.svg</file>
+        <file>Resources/校验_check.svg</file>
+        <file>Resources/导出_export.svg</file>
+        <file>Resources/搜索_search.svg</file>
+        <file>Resources/查找_find.svg</file>
+    </qresource>
+</RCC>
